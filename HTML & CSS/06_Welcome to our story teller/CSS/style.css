@@ -1,0 +1,59 @@
+#page-content {
+  border: 3px solid black;
+}
+
+#header h1 {
+  text-align: center;
+  margin-top: 0;
+  padding-top: 2.5rem;
+  font-weight: bold;
+}
+
+#header {
+  background-color: #d3d382;
+}
+
+#nav-bar {
+  margin-bottom: 0;
+}
+
+#nav-bar a, #nav-bar a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+#nav-bar a:hover {
+  text-decoration: underline;
+  background-color: rgb(195, 15, 240);
+}
+#nav-bar a:focus {
+  text-decoration: underline;
+  background-color: rgb(76, 138, 209);
+}
+
+.headings {
+  font-weight: bold;
+  font-size: medium;
+}
+
+#general-content {
+  background-color: #fafad2;
+  margin-bottom: 130px;
+  padding-top: 18px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+#first-box {
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+#second-box {
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  margin-top: 5px;
+}
+
+p.paragraph:first-letter {
+  font-size: 30px;
+}

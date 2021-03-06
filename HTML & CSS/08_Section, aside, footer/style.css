@@ -1,0 +1,21 @@
+#nav-links {
+    color: darkmagenta;
+}
+
+.article-content {
+    color: rosybrown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(22, 65, 100);
+    font-family: sans-serif;
+}
+
+p {
+    color: rosybrown;
+}
+
+#footer {
+    color: darkmagenta;
+}
